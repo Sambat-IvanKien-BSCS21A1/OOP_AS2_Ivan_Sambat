@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Log/obj
+/.vs/OOP_AS2_Ivan_Sambat/v17
+/.vs
+/Log/.vs/Log
